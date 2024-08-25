@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966885853628",
+    "project_id": "fir-github-2d906",
+    "storage_bucket": "fir-github-2d906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966885853628:android:1a0038844c99ced7c5c3b9",
+        "android_client_info": {
+          "package_name": "com.example.dayra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK-J4rkPz6xQtB5iAByOUMn0w5km-jBes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
