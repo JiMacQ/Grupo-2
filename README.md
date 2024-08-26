@@ -7,7 +7,7 @@
 ### ORMAZA MONTESDEOCA YUMEIDA STEFANIE
 
 <p align="center">
- <img src="IniciarSessionGH.png"width="30%">
-<img src="LoginFirebase.png"width="30%">
+ <img src="LoginFirebase.png"width="30%">
+<img src="IniciarSessionGH.png"width="30%">
 <img src="Completado.png" width="30%">
 </p>
